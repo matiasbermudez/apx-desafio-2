@@ -1,0 +1,84 @@
+[{
+    "title": "PeliA",
+    "rating": 10,
+    "tags": ["acción", "favorita", "clasico"],
+    "duracion" : 150,
+    "recaudacion" : 300
+  },
+  {
+    "title": "PeliZ",
+    "rating": 7,
+    "tags": ["terror", "nueva", "fantasia"],
+    "duracion" : 120,
+    "recaudacion" : 120
+  },
+  {
+    "title": "PeliR",
+    "rating": 6,
+    "tags": ["favorita", "nueva", "drama"],
+    "duracion" : 100,
+    "recaudacion" : 110
+  },
+  {
+    "title": "PeliB",
+    "rating": 4,
+    "tags": ["real", "clasico", "accion"],
+    "duracion" : 200,
+    "recaudacion" : 280
+  },
+  {
+    "title": "PeliP",
+    "rating": 9,
+    "tags": ["accion", "clasico"],
+    "duracion" : 170,
+    "recaudacion" : 195
+  },
+  {
+    "title": "PeliH",
+    "rating": 2,
+    "tags": ["drama", "accion"],
+    "duracion" : 125,
+    "recaudacion" : 245
+  },
+  {
+    "title": "PeliC",
+    "rating": 10,
+    "tags": ["accion", "terror", "clasico"],
+    "duracion" : 150,
+    "recaudacion" : 370
+  },
+  {
+    "title": "PeliE",
+    "rating": 5,
+    "tags": ["favorita", "nueva", "terror"],
+    "duracion" : 155,
+    "recaudacion" : 315
+  },
+  {
+    "title": "PeliX",
+    "rating": 3,
+    "tags": ["accion", "nueva"],
+    "duracion" : 200,
+    "recaudacion" : 160
+  },
+  {
+    "title": "PeliH",
+    "rating": 7,
+    "tags": ["favorita", "real", "terror"],
+    "duracion" : 90,
+    "recaudacion" : 400
+  },
+  {
+    "title": "PeliM",
+    "rating": 10,
+    "tags": ["favorita", "nueva", "accion", "clasico", "terror"],
+    "duracion" : 150,
+    "recaudacion" : 300
+  },
+  {
+    "title": "Peli5",
+    "rating": 3,
+    "tags": ["favorita", "nueva", "accion", "clasico", "terror"],
+    "duracion" : 100,
+    "recaudacion" : 278
+  }]
